@@ -1,7 +1,7 @@
 {
   "name": "1_imagens_e_containers",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aprenda Docker do básico ao avançado e ainda orquestração com Docker Swarm e Kubernetes!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarlmjr/Docker_Section_3__1_imagens_e_containers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oscarlmjr/Docker_Section_3__1_imagens_e_containers/issues"
+  },
+  "homepage": "https://github.com/oscarlmjr/Docker_Section_3__1_imagens_e_containers#readme"
 }
